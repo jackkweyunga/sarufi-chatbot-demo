@@ -1,0 +1,29 @@
+greetings:
+  - Hi
+  - Hello
+  - Howdy
+  - Hey
+  - Good morning
+  - Good evening
+  - Good afternoon
+  - Good day
+  - Good night
+
+goodbye:
+  - Bye
+  - Goodbye
+  - See you later
+  - See you soon
+  - Talk to you later
+  - Talk to you soon
+  - Talk to you
+  - See you
+  - Have a nice day
+  - Have a nice evening
+  - Have a nice night
+  - Have a nice morning
+
+thanks:
+  - Thanks
+  - Thank you
+  - Thank you so much

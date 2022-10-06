@@ -1,0 +1,16 @@
+greetings:
+  message:
+    - Hi, Welcome let's have a conversation.
+  next_state: end
+
+goodbye:
+  message:
+   - Bye!
+   - See you soon
+  next_state: end
+
+thanks:
+  message:
+   - You are welcome.
+  next_state: end
+
